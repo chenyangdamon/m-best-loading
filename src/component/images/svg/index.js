@@ -1,0 +1,8 @@
+export {default as spinner} from './spinner.svg'
+export {default as rolling} from './rolling.svg'
+export {default as ball} from './ball.svg'
+export {default as bars} from './bars.svg'
+export {default as eclipse} from './eclipse.svg'
+export {default as ellipsis} from './ellipsis.svg'
+export {default as magnify} from './magnify.svg'
+export {default as pacman} from './pacman.svg'
