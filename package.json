@@ -1,7 +1,7 @@
 {
   "name": "m-best-loading",
   "description": "This is a vue2.x based H5 mobile end component.",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "author": "damon <645230634@qq.com>",
   "license": "MIT",
   "private": false,
