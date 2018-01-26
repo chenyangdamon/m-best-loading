@@ -30,7 +30,7 @@ Vue.use(MBestLoading)
 
 |key|description|default|options|
 |:---|---|---|---|
-| `type`|指定动画类型，该组件内置9种动画，`spinner`、`rolling`、`ball`、`bars`、`eclipse`、`ellipsis`、`magnify`、`pacman`|`spinner`|`String`|
+| `type`|指定动画类型，该组件内置9种动画，`spinner`、`rolling`、<br/>`ball`、`bars`、`eclipse`、`ellipsis`、`magnify`、`pacman`|`spinner`|`String`|
 |`theme`|动画的主色调|`#FF0033`|`String`
 |`size`|动画尺寸|`{width:'40px',height:'40px'}`|`Object`|
 |`status`|文本信息显示隐藏状态|`true`|`Boolean`|
