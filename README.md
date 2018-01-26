@@ -3,7 +3,7 @@
 > This is a vue2.x based H5 mobile end component.
 
 ## 演示
-[live demo](http://www.a.com)
+[live demo](https://chenyangdamon.github.io/vue-m-best-loading-master/)
 
 ## 依赖
 vue2.x
